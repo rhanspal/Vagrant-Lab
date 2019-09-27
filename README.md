@@ -1,0 +1,2 @@
+I perfomed a Lab on Vagrant which helped to clear the concept of Vagrant and made me understand that rather than going into virtual box and creating virtual machines, we can accomplish this by using vagrant. I learnt the importance of Vagrant file. 
+As part of the lab, I created single topology and multi-machine topology by using Ubuntu and Centos base images. Also, I learnt how to sync folders between host and guest machine. Furthermore, I learnt how to install Apache server into the machine and ssh into it. 
